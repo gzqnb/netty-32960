@@ -1,0 +1,45 @@
+server:
+  port: 32966
+  gbt32960: 32960
+
+spring.jpa:
+  database: postgresql
+  properties.hibernate.dialect: org.hibernate.dialect.PostgreSQL9Dialect
+  hibernate.ddl-auto: update
+  show-sql: false
+
+spring:
+  redis:
+    host: nevt05
+    port: 30104
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: org.postgresql.Driver
+    username: nevt
+    password: nevt@db1
+    url: jdbc:postgresql://nevt05:30101/db1?useUnicode=true&characterEncoding=utf8
+    druid:
+      stat-view-servlet:
+        enabled: true
+        url-pattern: /druid/*
+        login-username: nevt
+        login-password: nevt@druid
+        allow:
+      initial-size: 5
+      min-idle: 5
+      max-active: 20
+      max-wait: 60000
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 300000
+      validation-query: SELECT 'x'
+      test-while-idle: true
+      test-on-borrow: false
+      test-on-return: false
+      pool-prepared-statements: true
+      max-pool-prepared-statement-per-connection-size: 20
+      filters: mergeStat
+      filter:
+        stat:
+          merge-sql: true
+          slow-sql-millis: 5000
+      use-global-data-source-stat: true

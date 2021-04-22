@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gbt32960.iml" filepath="$PROJECT_DIR$/gbt32960.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../common-util/nevt-common-spring-boot-starter.iml" filepath="$PROJECT_DIR$/../common-util/nevt-common-spring-boot-starter.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56b3692e-0330-4b28-b5c3-cf3bc82600ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/codec/GBT32960Decoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/codec/GBT32960Decoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/codec/GBT32960Encoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/codec/GBT32960Encoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/codec/ReportDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/codec/ReportDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/controller/PlatformController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/controller/PlatformController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/exception/ControllerExceptionHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/exception/ControllerExceptionHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/formatters/DataUnitToDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/formatters/DataUnitToDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/formatters/FormatterToDataUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/formatters/FormatterToDataUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/modle/DataUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/modle/DataUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/modle/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/modle/Motor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/protocol/ProtocolHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/protocol/ProtocolHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/service/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/service/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/type/FrameHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/type/FrameHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/type/RequestType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/type/RequestType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/util/GBT32960Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/util/GBT32960Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/util/VOUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/util/VOUtil.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\LocalWarehouse" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1r0bRrO9Igi64uHsGVPb74D3Bsx" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ziqian Guo\Desktop\gbt-32960-netty\src\main\resources" />
+      <recent name="C:\Users\Ziqian Guo\Desktop\gbt-32960-netty\src\main\java\com\nevt\gbt32960" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nevt.gbt32960.service.Client" />
+      <module name="gbt32960" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nevt.gbt32960.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gbt32960Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gbt32960" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nevt.gbt32960.Gbt32960Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56b3692e-0330-4b28-b5c3-cf3bc82600ef" name="Default Changelist" comment="" />
+      <created>1618115948670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618115948670</updated>
+      <workItem from="1618115949939" duration="1402000" />
+      <workItem from="1618221051142" duration="19866000" />
+      <workItem from="1618313493296" duration="15267000" />
+      <workItem from="1618330206272" duration="29951000" />
+      <workItem from="1618468193541" duration="9412000" />
+      <workItem from="1618563295412" duration="4324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/protocol/ProtocolHandler.java</url>
+          <line>144</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/protocol/ProtocolHandler.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/protocol/ProtocolHandler.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/protocol/ProtocolHandler.java</url>
+          <line>213</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/protocol/ProtocolHandler.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/protocol/ProtocolHandler.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/codec/GBT32960Encoder.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/codec/GBT32960Encoder.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/codec/GBT32960Decoder.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/codec/GBT32960Decoder.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/codec/GBT32960Decoder.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/codec/ReportDecoder.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/formatters/DataUnitToDTO.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/formatters/DataUnitToDTO.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/formatters/DataUnitToDTO.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/formatters/DataUnitToDTO.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/formatters/DataUnitToDTO.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/formatters/DataUnitToDTO.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/formatters/DataUnitToDTO.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nevt/gbt32960/protocol/ProtocolHandler.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

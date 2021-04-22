@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "server.gbt32960",
+      "type": "java.lang.String",
+      "description": "Description for server.gbt32960."
+    }
+  ]
+}
